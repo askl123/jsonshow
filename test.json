@@ -53,8 +53,8 @@
     {"source": "18", "target": "19", "label": "e18-19", "weight": 1.6 }
   ],
   "combos": [{
-    "id": 'combo0',
+    "id": "combo0",
     "size": 100,
-    "type": 'rect'
+    "type": "rect"
   }
 }

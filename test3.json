@@ -15,36 +15,36 @@
     {"id": "10", "label": "n10", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 40 },
     {"id": "11", "label": "n11", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 60 },
     
-    {"id": "12", "label": "n12", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 300, "y": 0 },
-    {"id": "13", "label": "n13", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 300, "y": 20 },
-    {"id": "14", "label": "n14", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 300, "y": 40 },
-    {"id": "15", "label": "n15", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 300, "y": 60 },
+    {"id": "12", "label": "n12", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 0 },
+    {"id": "13", "label": "n13", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 20 },
+    {"id": "14", "label": "n14", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 40 },
+    {"id": "15", "label": "n15", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 60 },
     
     {"id": "16", "label": "n16", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 0 },
     {"id": "17", "label": "n17", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 20 },
     {"id": "18", "label": "n18", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 40 },
     {"id": "19", "label": "n19", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 60 },
     
-    {"id": "20", "label": "n20", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 700, "y": 0 },
-    {"id": "21", "label": "n21", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 700, "y": 20 },
-    {"id": "22", "label": "n22", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 700, "y": 40 },
-    {"id": "23", "label": "n23", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 700, "y": 60 },
+    {"id": "20", "label": "n20", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 0 },
+    {"id": "21", "label": "n21", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 20 },
+    {"id": "22", "label": "n22", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 40 },
+    {"id": "23", "label": "n23", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 60 },
     
-    {"id": "24", "label": "n12", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 300, "y": 100 },
-    {"id": "25", "label": "n13", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 300, "y": 120 },
-    {"id": "26", "label": "n14", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 300, "y": 140 },
-    {"id": "27", "label": "n15", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 300, "y": 160 },
+    {"id": "24", "label": "n12", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 140 },
+    {"id": "25", "label": "n13", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 160 },
+    {"id": "26", "label": "n14", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 180 },
+    {"id": "27", "label": "n15", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 200 },
     
-    {"id": "28", "label": "n16", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 100 },
-    {"id": "29", "label": "n17", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 120 },
-    {"id": "30", "label": "n18", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 140 },
-    {"id": "31", "label": "n19", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 160 },
+    {"id": "28", "label": "n16", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 140 },
+    {"id": "29", "label": "n17", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 160 },
+    {"id": "30", "label": "n18", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 180 },
+    {"id": "31", "label": "n19", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 200 },
     
-    {"id": "32", "label": "n20", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 700, "y": 100 },
-    {"id": "33", "label": "n21", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 700, "y": 120 },
-    {"id": "34", "label": "n22", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 700, "y": 140 },
-    {"id": "35", "label": "n23", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 700, "y": 160 }
-    
+    {"id": "32", "label": "n20", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 140 },
+    {"id": "33", "label": "n21", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 160 },
+    {"id": "34", "label": "n22", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 180 },
+    {"id": "35", "label": "n23", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 200 }
+   
   ],
   "edges": [
     

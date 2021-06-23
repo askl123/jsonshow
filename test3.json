@@ -60,6 +60,6 @@
     {"id": "combo_ADS1_ANS", "type": "rect", "parentId": "combo_ANS" },
     {"id": "combo_ADS2_ANS", "type": "rect", "parentId": "combo_ANS" },
     {"id": "combo_ADS3_ANS", "type": "rect", "parentId": "combo_ANS" },
-    {"id": "combo_ANS", "type": "rect" },
+    {"id": "combo_ANS", "type": "rect" }
   ]
 }

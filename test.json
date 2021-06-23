@@ -51,5 +51,10 @@
     {"source": "16", "target": "18", "label": "e16-18", "weight": 3 },
     {"source": "17", "target": "18", "label": "e17-18", "weight": 2.6 },
     {"source": "18", "target": "19", "label": "e18-19", "weight": 1.6 }
-  ]
+  ],
+  combos: [{
+    id: 'combo0',
+    size: 100,
+    type: 'rect'
+  }
 }

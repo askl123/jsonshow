@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {"id": "0", "label": "index0", "class": "pusher", "comboId": "combo_pusher", "x": 0, "y": 0 },
+    {"id": "1", "label": "index1", "class": "pusher", "comboId": "combo_pusher", "x": 0, "y": 20 },
+    {"id": "2", "label": "index2", "class": "pusher", "comboId": "combo_pusher", "x": 0, "y": 40 },
+    {"id": "3", "label": "index3", "class": "pusher", "comboId": "combo_pusher", "x": 0, "y": 60 },
+    
+    {"id": "4", "label": "index0", "class": "S3", "comboId": "combo_S3", "x": 100, "y": 0 },
+    {"id": "5", "label": "index1", "class": "S3", "comboId": "combo_S3", "x": 100, "y": 20 },
+    {"id": "6", "label": "index2", "class": "S3", "comboId": "combo_S3", "x": 100, "y": 40 },
+    {"id": "7", "label": "index3", "class": "S3", "comboId": "combo_S3", "x": 100, "y": 60 },
+    
+    {"id": "8", "label": "index0", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 0 },
+    {"id": "9", "label": "index1", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 20 },
+    {"id": "10", "label": "index2", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 40 },
+    {"id": "11", "label": "index3", "class": "CDN_NYC", "comboId": "combo_CDN_NYC", "x": 200, "y": 60 },
+    
+    {"id": "12", "label": "index0", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 0 },
+    {"id": "13", "label": "index1", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 20 },
+    {"id": "14", "label": "index2", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 40 },
+    {"id": "15", "label": "index3", "class": "ADS1_NYC", "comboId": "combo_ADS1_NYC", "x": 400, "y": 60 },
+    
+    {"id": "16", "label": "index0", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 0 },
+    {"id": "17", "label": "index1", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 20 },
+    {"id": "18", "label": "index2", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 40 },
+    {"id": "19", "label": "index3", "class": "ADS2_NYC", "comboId": "combo_ADS2_NYC", "x": 500, "y": 60 },
+    
+    {"id": "20", "label": "index0", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 0 },
+    {"id": "21", "label": "index1", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 20 },
+    {"id": "22", "label": "index2", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 40 },
+    {"id": "23", "label": "index3", "class": "ADS3_NYC", "comboId": "combo_ADS3_NYC", "x": 600, "y": 60 },
+    
+    {"id": "24", "label": "index0", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 140 },
+    {"id": "25", "label": "index1", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 160 },
+    {"id": "26", "label": "index2", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 180 },
+    {"id": "27", "label": "index3", "class": "ADS1_ANS", "comboId": "combo_ADS1_ANS", "x": 400, "y": 200 },
+    
+    {"id": "28", "label": "index0", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 140 },
+    {"id": "29", "label": "index1", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 160 },
+    {"id": "30", "label": "index2", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 180 },
+    {"id": "31", "label": "index3", "class": "ADS2_ANS", "comboId": "combo_ADS2_ANS", "x": 500, "y": 200 },
+    
+    {"id": "32", "label": "index0", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 140 },
+    {"id": "33", "label": "index1", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 160 },
+    {"id": "34", "label": "index2", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 180 },
+    {"id": "35", "label": "index3", "class": "ADS3_ANS", "comboId": "combo_ADS3_ANS", "x": 600, "y": 200 }
+   
+  ],
+  "edges": [
+    {"source": "0", "target": "4", "label": "times(s)", "weight": 5 },
+    {"source": "4", "target": "8", "label": "times(s)", "weight": 5 },
+    {"source": "8", "target": "12", "label": "times(s)", "weight": 5 },
+    {"source": "8", "target": "16", "label": "times(s)", "weight": 5 },
+    {"source": "8", "target": "20", "label": "times(s)", "weight": 5 },
+    {"source": "4", "target": "24", "label": "times(s)", "weight": 5 },
+    {"source": "4", "target": "28", "label": "times(s)", "weight": 5 },
+    {"source": "4", "target": "32", "label": "times(s)", "weight": 5 },
+    
+    {"source": "1", "target": "5", "label": "times(s)", "weight": 1 },
+    {"source": "5", "target": "9", "label": "times(s)", "weight": 1 },
+    {"source": "9", "target": "13", "label": "times(s)", "weight": 1 },
+    {"source": "9", "target": "17", "label": "times(s)", "weight": 1 },
+    {"source": "9", "target": "21", "label": "times(s)", "weight": 1 },
+    {"source": "5", "target": "25", "label": "times(s)", "weight": 1 },
+    {"source": "5", "target": "29", "label": "times(s)", "weight": 1 },
+    {"source": "5", "target": "33", "label": "times(s)", "weight": 1 }
+  ],
+  "combos": [
+    {"id": "combo_pusher", "type": "rect" },
+    {"id": "combo_S3", "type": "rect" },
+    {"id": "combo_CDN_NYC", "type": "rect" },
+    {"id": "combo_ADS1_NYC", "type": "rect", "parentId": "combo_NYC" },
+    {"id": "combo_ADS2_NYC", "type": "rect", "parentId": "combo_NYC" },
+    {"id": "combo_ADS3_NYC", "type": "rect", "parentId": "combo_NYC" },
+    {"id": "combo_NYC", "type": "rect" },
+    {"id": "combo_ADS1_ANS", "type": "rect", "parentId": "combo_ANS" },
+    {"id": "combo_ADS2_ANS", "type": "rect", "parentId": "combo_ANS" },
+    {"id": "combo_ADS3_ANS", "type": "rect", "parentId": "combo_ANS" },
+    {"id": "combo_ANS", "type": "rect" }
+  ]
+}
